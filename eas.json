@@ -1,0 +1,9 @@
+{
+  "cli": { "appVersionSource": "local" },
+  "build": {
+    "apk": {
+      "android": { "buildType": "apk" },
+      "distribution": "internal"
+    }
+  }
+}

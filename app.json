@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "REA-Assist",
+    "slug": "rea-assist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0D12",
+    "android": {
+      "package": "com.reaassist.app",
+      "versionCode": 1,
+      "permissions": ["VIBRATE"]
+    }
+  }
+}
